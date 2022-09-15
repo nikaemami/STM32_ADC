@@ -10,16 +10,16 @@ Some important features of the micro-controller to pay attention to:
 
 The minimum and maximum values of the VDDA for the converter are as follows:
 
-![My Image](images/IMG_4973.jpg)
+<img src="images/IMG_4973.jpg" width="600" height="120">
 
 The minimum and maximum values of the VREF for the converter are as follows:
 
-![My Image](images/IMG_4974.jpg)
+<img src="images/IMG_4974.jpg" width="600" height="120">
 
 The sampling time of the converter:
 
-![My Image](images/IMG_4975.jpg)
+<img src="images/IMG_4975.jpg" width="600" height="120">
 
 The resolution of the ADC considering the fact that it has 12-bit converters:
 
-![My Image](images/IMG_4976.jpg)
+<img src="images/IMG_4976.jpg" width="180" height="45">
